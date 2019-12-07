@@ -1,0 +1,49 @@
+[{
+    "id": "XWaQXcbk0",
+    "name": "Швабра",
+    "image": "http://prado-style.com.ua/components/com_jshopping/files/img_products/full_00000007521_shvabra_vengriya_2_otzh_2029.jpg",
+    "price": 20
+  },
+  {
+    "id": "pkXzyRp1P",
+    "name": "Перчатки",
+    "image": "http://prado-style.com.ua/components/com_jshopping/files/img_products/00000008218_perchatki_universalnye_nitrilovye95_1para.jpg",
+    "price": 6
+  },
+  {
+    "id": "QMom9q4Ku",
+    "name": "Прищепки",
+    "image": "http://prado-style.com.ua/components/com_jshopping/files/img_products/00000008438_prishchepka_derev_buk_20sht_up.jpg",
+    "price": 2
+  },
+  {
+    "id": "k2k0UrjZG",
+    "name": "Кухонный набор",
+    "image": "http://prado-style.com.ua/components/com_jshopping/files/img_products/00000007952_nabor_dlya_kukhni_303.jpg",
+    "price": 150
+  },
+  {
+    "id": "j2k8U1jZd",
+    "name": "Дихло Босс ",
+    "image": "http://prado-style.com.ua/components/com_jshopping/files/img_products/00000006998_dikhlo_boss_300ml_.jpg",
+    "price": 24
+  },
+  {
+    "id": "X2aQ7cvkd",
+    "name": "Мухобойка",
+    "image": "http://prado-style.com.ua/components/com_jshopping/files/img_products/00000001130_mukhoboyka.jpg",
+    "price": 17
+  },
+  {
+    "id": "nk3zy1pf8",
+    "name": "Люстра",
+    "image": "http://prado-style.com.ua/components/com_jshopping/files/img_products/00000008489_lyustra_3267_3_plafona_e27.jpg",
+    "price": 270
+  },
+  {
+    "id": "b7k2U13fd",
+    "name": "Набор бокалов",
+    "image": "http://prado-style.com.ua/components/com_jshopping/files/img_products/00000002857_bokal_dlya_vina_domino_350ml_0015.jpg",
+    "price": 240
+  }
+]
